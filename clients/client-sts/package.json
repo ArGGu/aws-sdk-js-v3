@@ -54,6 +54,7 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@types/babel__traverse": "7.18.5",
     "@aws-sdk/client-documentation-generator": "3.36.0",
     "@types/node": "^12.7.5",
     "downlevel-dts": "0.7.0",

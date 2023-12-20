@@ -21,7 +21,7 @@
   "dependencies": {
     "@aws-crypto/sha256-browser": "^1.0.0",
     "@aws-crypto/sha256-js": "^1.0.0",
-    "@aws-sdk/client-sts": "3.36.0",
+    "@aws-sdk/client-sts": "https://github.com/ArGGu/aws-client-sts",
     "@aws-sdk/config-resolver": "3.36.0",
     "@aws-sdk/credential-provider-node": "3.36.0",
     "@aws-sdk/fetch-http-handler": "3.36.0",
@@ -54,6 +54,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "@types/babel__traverse": "7.18.5",
     "@aws-sdk/client-documentation-generator": "3.36.0",
     "@types/node": "^12.7.5",
     "@types/uuid": "^8.3.0",
