@@ -21,7 +21,7 @@
   "dependencies": {
     "@aws-crypto/sha256-browser": "^1.0.0",
     "@aws-crypto/sha256-js": "^1.0.0",
-    "@aws-sdk/client-sts": "https://github.com/ArGGu/aws-client-sts",
+    "@aws-sdk/client-sts": "ArGGu/aws-client-sts",
     "@aws-sdk/config-resolver": "3.36.0",
     "@aws-sdk/credential-provider-node": "3.36.0",
     "@aws-sdk/fetch-http-handler": "3.36.0",
